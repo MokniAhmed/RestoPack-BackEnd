@@ -1,0 +1,29 @@
+[
+    {
+        "fieldName": "How would you rate the cleanliness of our restaurant?",
+        "category": "Client Experience",
+        "type":"Radio",
+        "required":true
+    },
+    {
+        "fieldName": "How would you rate the value of our food?",
+        "category": "Food Quality",
+        "type":"Radio",
+        "required":true
+
+    },
+    {
+        "fieldName": "How likely is it that you will recommend our restaurant?",
+        "category": "recommendation",
+        "type":"Radio",
+        "required":true
+
+    },
+    {
+        "fieldName": "How would you rate our service?",
+        "category": "Food Service",
+        "type":"Radio",
+        "required":true
+
+    }
+]

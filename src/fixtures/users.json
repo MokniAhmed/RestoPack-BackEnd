@@ -1,0 +1,26 @@
+[
+  {
+    "email": "admin@admin.com",
+    "firstName": "admin admin",
+    "password": "Test123&",
+    "type": {
+      "role":"admin",
+      "restaurantId": null
+    },
+    "isActive": true, 
+    "loyalty":[],
+    "commands":[]
+  },
+  {
+    "email": "test@test.com",
+    "fullName": "Test Test",
+    "password": "Test123&",
+    "type": {
+      "role":"user",
+      "restaurantId": null
+    },
+    "isActive": true, 
+    "loyalty":[],
+    "commands":[]
+  }
+]
